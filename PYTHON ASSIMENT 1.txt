@@ -1,0 +1,43 @@
+Q1. what is sdlc?.
+ANS:- SDLC:-Softwarwe development life cycle.
+
+Q2. How many phases of sdlc?
+ANS:-
+     1)requirment gathering
+     2)analaysis
+     3)designing-frontend part -html,css,js,angular
+     4)coding or implementation-Backend part -Python,PHP,Java,.net,etc...
+     5)testing
+     6)maintainence
+
+Q3.What is object and class of sdlc ?
+ANS:-Compiler :- it translates your code from high leval laguage to low level language
+--->it reads whole code at once and then give output or error 
+e.g:- C,C++.Java,etc...
+
+interpreter:- it reads your code line by line and then gives output or error
+
+Q4. what is history of python and benifits of python ?
+ANS:- Phython was created by guido van rassoum in 1992 and it was devloped by phython software foundation.
+
+---> Benifits of using phthon:-
+ 	1)short and easy syntax
+	2)shorter code
+	3)more inbuilt funcation
+	4)it is easy and fast language
+
+Q5. Which using of real world application of python ?
+--->	1>Web application
+	2>Desktop application
+	3>GUI based application
+	4>Machine learning
+	5>artificial intelligent
+	6>Data analytics/Data Science
+	7>Robotics
+	8>Game development
+
+Q6. what is escape sequance of print ?
+ANS:- \n-new line
+      \t-tab(4spaces)
+      \b-backspace
+       r- raw string		
